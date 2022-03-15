@@ -20,8 +20,8 @@ public class ImagebuttonActivity extends AppCompatActivity {
         imbutton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent1 = new Intent(ImagebuttonActivity.this, cosActivity.class);
-                startActivity(intent1);
+                //Intent intent1 = new Intent(ImagebuttonActivity.this, cosActivity.class);
+                //startActivity(intent1);
             }
         });
     }
