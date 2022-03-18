@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.KontrolkiPrezentacja">
         <activity
+            android:name=".TextEditActivity"
+            android:exported="false" />
+        <activity
             android:name=".ImagebuttonActivity"
             android:exported="false" />
         <activity
